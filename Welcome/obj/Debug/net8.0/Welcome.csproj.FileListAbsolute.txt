@@ -1,0 +1,28 @@
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\bin\Debug\net8.0\Welcome.exe
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\bin\Debug\net8.0\Welcome.deps.json
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\bin\Debug\net8.0\Welcome.dll
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\bin\Debug\net8.0\Welcome.pdb
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\Welcome.dll
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\Welcome.pdb
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+C:\Users\student\Desktop\alo\alo\PS_43_Mariyan\Welcome\obj\Debug\net8.0\ref\Welcome.dll
+D:\cool codes\university - C#\Welcome\bin\Debug\net8.0\Welcome.exe
+D:\cool codes\university - C#\Welcome\bin\Debug\net8.0\Welcome.deps.json
+D:\cool codes\university - C#\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+D:\cool codes\university - C#\Welcome\bin\Debug\net8.0\Welcome.dll
+D:\cool codes\university - C#\Welcome\bin\Debug\net8.0\Welcome.pdb
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\Welcome.dll
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\Welcome.pdb
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+D:\cool codes\university - C#\Welcome\obj\Debug\net8.0\ref\Welcome.dll
